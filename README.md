@@ -16,7 +16,7 @@ An end-to-end pipeline that runs automatically after data loads, flags KPIs that
 
 ## Demo
 
-![Report Screenshot](docs/report_screenshot.png)
+![Report Screenshot](/report_screenshot.png)
 
 **Three-section HTML report — generated automatically every week:**
 
